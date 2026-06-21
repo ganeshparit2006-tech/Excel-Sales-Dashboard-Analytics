@@ -47,7 +47,7 @@ Dataset/
 Documentation/
 Images/
 ## Dashboard Preview
-![Dashboard Overview](Images/Dashboard_Overview.png)
+![Dashboard Overview](Images-Dashboard_Overview.png)
 
 ---
 ## Author
