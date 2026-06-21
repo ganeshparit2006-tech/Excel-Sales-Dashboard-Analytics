@@ -46,8 +46,7 @@ Dashboard/
 Dataset/
 Documentation/
 Images/
-## Dashboard Preview
-![Dashboard](https://raw.githubusercontent.com/username/repository/main/Images/dashboard.png)
+
 ---
 ## Author
 Ganesh Parit
