@@ -45,7 +45,7 @@ Away From Target Percentage Trend Analysis.
 Dashboard/
 Dataset/
 Documentation/
-Images/
+Images
 ![image alt].(https://github.com/ganeshparit2006-tech/Excel-Sales-Dashboard-Analytics/blob/9b634e68aed2e40084679b89b6554037c25c00f1/Dashboard_Overview.png.jpg)
 ---
 ## Author
