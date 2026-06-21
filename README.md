@@ -46,7 +46,7 @@ Dashboard/
 Dataset/
 Documentation/
 Images
-![image alt].(https://github.com/ganeshparit2006-tech/Excel-Sales-Dashboard-Analytics/blob/9b634e68aed2e40084679b89b6554037c25c00f1/Dashboard_Overview.png.jpg)
+![image alt].(https://github.com/ganeshparit2006-tech/Excel-Sales-Dashboard-Analytics/blob/main/Dashboard_Overview.png.jpg?raw=true)
 ---
 ## Author
 Ganesh Parit
