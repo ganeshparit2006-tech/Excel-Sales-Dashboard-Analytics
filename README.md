@@ -47,7 +47,7 @@ Dataset/
 Documentation/
 Images/
 ## Dashboard Preview
-![Dashboard Overview](Images/Dashboard_Overview.png)
+![Dashboard](Images/dashboard.png)
 ---
 ## Author
 Ganesh Parit
